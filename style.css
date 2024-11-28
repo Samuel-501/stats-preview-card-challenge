@@ -41,6 +41,10 @@ body{
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     position: relative;
+    background: url(image-header-desktop);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 /* styling part2 div */
 .image img{
